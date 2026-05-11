@@ -1,4 +1,4 @@
-# CVE-PENDING | Hotel and Tourism Reservation System - Unauthenticated SQL Injection in tour.php
+# Hotel and Tourism Reservation System - Unauthenticated SQL Injection in tour.php
 
 ## Vulnerability Details
 
