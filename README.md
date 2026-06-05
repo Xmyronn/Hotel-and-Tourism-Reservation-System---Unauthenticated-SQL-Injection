@@ -5,7 +5,6 @@
 | Field | Details |
 |-------|---------|
 | **Title** | Hotel and Tourism Reservation System - SQL Injection via `tour` GET Parameter |
-| **CVE ID** | Pending Assignment |
 | **Vendor** | code-projects.org |
 | **Vendor URL** | https://code-projects.org/hotel-and-tourism-reservation-in-php-with-source-code/ |
 | **Product** | Hotel and Tourism Reservation System |
